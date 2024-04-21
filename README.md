@@ -1,2 +1,2 @@
 # html_css_landing_page
-html and css application
+html and css basic application
